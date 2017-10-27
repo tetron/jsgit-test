@@ -1,0 +1,11 @@
+{
+    "name": "jsgit-test",
+    "version": "0.1",
+    "dependencies": {
+        "bodec": "^1.1.0",
+        "browserify": "^14.5.0",
+        "culvert": "^0.1.2",
+        "gen-run": "^0.1.2",
+        "js-git": "file:../js-git"
+    }
+}
